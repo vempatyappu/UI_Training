@@ -1,0 +1,33 @@
+Comment tag: Document COmment Tag
+Anchor Tag : Links
+    Href
+    Target : self,
+
+Assignment 1 :
+
+     IntelliJ Community | Notepad++
+
+     .html
+
+     Create a self Profile Introductory Page.
+
+     Image of yours,with specific width as 200x300 pixels
+
+     Name : A bold and heading
+     and qualification using h header tags
+
+     Use section and paragraph to describe something about you.
+
+     In that you need to highlight/underline/italics/bold/strong with different some keywords.
+
+      List You qualification in chronological order.
+
+
+
+
+     HTML.
+
+
+
+
+
